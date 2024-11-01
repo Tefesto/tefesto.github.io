@@ -20,11 +20,18 @@ viewed: 12
 
 ![](https://m.media-amazon.com/images/M/MV5BMmRiNzg0MmItMmE3NC00OTk2LWFlMWQtNjgyNWEyMDc5ZWE0XkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_SX300.jpg)
 
-**Genre**: Animation, Action, Adventure
-**Type**: series (N/A)
-**Rating**: 2
-[IMDB](https://www.imdb.com/title/tt32395862/): N/A (N/A)
-[MAL](https://myanimelist.net/anime/57058/Ore_wa_Subete_wo_Parry_suru__Gyaku_Kanchigai_no_Sekai_Saikyou_wa_Boukensha_ni_Naritai): 6.92 (11,853)
+Альтернативні назви:
+- Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai (2024–)
+- Альтернативна назва: Я постійно захищався, щоб стати найсильнішим аванюристом (2024-)
+- Я видбиваю все (2024-)
+
+**Genre**: Animation, Action, Adventure  
+**Type**: series (N/A)  
+**Rating**: 2  
+**Country**: Japan  
+**Cast**: Daiki Hamano, Ryôko Maekawa, Nanako Mori  
+[IMDB](https://www.imdb.com/title/tt32395862/): N/A (N/A)  
+[MAL](https://myanimelist.net/anime/57058/Ore_wa_Subete_wo_Parry_suru__Gyaku_Kanchigai_no_Sekai_Saikyou_wa_Boukensha_ni_Naritai): 6.92 (11,853)  
 
 ##### Короткий опис:
 
@@ -32,4 +39,4 @@ Assassination attempt on the Princess Lynneburg threatens the Kingdom of Clays. 
 
 ---
 
-https://animeua.club/7902-ore-wa-subete-o-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-no-yume-o-miru.html
+[animeua.club](https://animeua.club/7902-ore-wa-subete-o-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-no-yume-o-miru.html)
