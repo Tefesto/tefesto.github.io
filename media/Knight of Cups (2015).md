@@ -22,9 +22,9 @@ tegs: movie
 ![](https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_SX300.jpg)
 
 **Genre**: Drama, Fantasy, Romance  
-cast: Christian Bale, Cate Blanchett, Natalie Portman  
-director: Terrence Malick  
-country: United States  
+**Cast**: Christian Bale, Cate Blanchett, Natalie Portman  
+**Director**: Terrence Malick  
+**Country**: United States  
 **Type**: movie (118 min)  
 **Rating**: 2  
 [IMDB](https://www.imdb.com/title/tt2101383/): 5.6 (29,864)  
