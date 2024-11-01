@@ -26,10 +26,10 @@ viewed: 12
 - Я видбиваю все (2024-)
 
 **Genre**: Animation, Action, Adventure  
+**Cast**: Daiki Hamano, Ryôko Maekawa, Nanako Mori  
+**Country**: Japan  
 **Type**: series (N/A)  
 **Rating**: 2  
-**Country**: Japan  
-**Cast**: Daiki Hamano, Ryôko Maekawa, Nanako Mori  
 [IMDB](https://www.imdb.com/title/tt32395862/): N/A (N/A)  
 [MAL](https://myanimelist.net/anime/57058/Ore_wa_Subete_wo_Parry_suru__Gyaku_Kanchigai_no_Sekai_Saikyou_wa_Boukensha_ni_Naritai): 6.92 (11,853)  
 
