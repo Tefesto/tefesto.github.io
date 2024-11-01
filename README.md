@@ -1,2 +1,2 @@
-[Pri mi-blogo](notoj/pri_mi_blogo.md)
+[Про сайт](notes/abou.md)
 
