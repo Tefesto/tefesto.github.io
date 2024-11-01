@@ -1,3 +1,4 @@
-[Про сайт](notes/about.md)
+**[Про сайт](notes/about)**
 
-[Рецепти](recipe)
+- [Інструкції](instructions)
+- [Рецепти](recipe)
