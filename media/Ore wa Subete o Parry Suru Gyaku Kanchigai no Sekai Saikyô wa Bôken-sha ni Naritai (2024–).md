@@ -17,7 +17,7 @@ viewed: 12
 ---
 
 # Я парирую все (2024–)
-####**Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai**
+#### **Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai**
 
 ![](https://m.media-amazon.com/images/M/MV5BMmRiNzg0MmItMmE3NC00OTk2LWFlMWQtNjgyNWEyMDc5ZWE0XkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_SX300.jpg)
 

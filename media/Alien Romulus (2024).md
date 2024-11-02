@@ -17,7 +17,7 @@ viewed: 1
 ---
 
 # Чужий: Ромул (2024)
-### Alien: Romulus (2024)
+### Alien: Romulus
 
 ![](https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_SX300.jpg)
 
