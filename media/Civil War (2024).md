@@ -22,12 +22,12 @@ viewed: 1
 
 ## Civil War (2024)
 
-**Genre**: Action, Adventure, Thriller  
-**Cast**: Kirsten Dunst, Wagner Moura, Cailee Spaeny  
-**Director**: Alex Garland  
-**Country**: United States, United Kingdom  
-**Type**: movie (109 min)  
-**Rating**: 3  
+**Жанр**: Action, Adventure, Thriller  
+**Акторський склад**: Kirsten Dunst, Wagner Moura, Cailee Spaeny  
+**Директор**: Alex Garland  
+**Країна**: United States, United Kingdom  
+**Контент**: movie (109 min)  
+**Рейтинг**: ⭐  
 [IMDB](https://www.imdb.com/title/tt17279496/): 7.0 (173,965)  
 
 ## Анотація
