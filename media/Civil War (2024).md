@@ -38,5 +38,6 @@ viewed: 1
 
 Фільм розкриває теми політичного розколу та моральних дилем, створюючи похмурий образ майбутнього, де жорстокість та конфлікти стають повсякденною реальністю.
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDyQxtg0V2w?si=9dEkE_yYeL3_pe1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
