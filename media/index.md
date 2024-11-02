@@ -2,7 +2,7 @@
 
 ## Фільми
 
-[Усі фільми](movies-all) ● [Те що можна дивитись](movies-plus.md) ● [Найкращі фільми](movies-best.md)
+[Усі фільми](movies-all) ● [Те що можна дивитись](movies-plus) ● [Найкращі фільми](movies-best) ● [Не варто дивитись](movies-minus)
 
 ## Серіали
 
