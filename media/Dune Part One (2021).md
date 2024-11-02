@@ -31,6 +31,6 @@ status:
 
 ## Анотація
 
-A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.  
+*Dune: Part One* (2021) — епічний науково-фантастичний фільм режисера Дені Вільнева, що є адаптацією першої частини класичного роману Френка Герберта _«Дюна»_. Дія розгортається у далекому майбутньому, де могутні династії борються за владу над планетою Арракіс, єдиним джерелом цінного ресурсу — меланжу, або «спайсу», який наділяє надзвичайними здібностями та робить можливими міжзоряні подорожі. Головний герой, юний Пол Атріді (Тімоті Шаламе), разом із родиною вирушає на Арракіс, де стикається з небезпеками, інтригами та таємницями місцевого населення — фріменів. Поступово Пол дізнається про своє призначення, яке може змінити долю всесвіту. Фільм вирізняється візуальною масштабністю, глибокими темами про владу, екологію та пророче покликання.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9xhJrPXop4?si=PD4W5xgCV7wv9Qck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

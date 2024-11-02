@@ -31,5 +31,6 @@ status:
 
 ## Анотація
 
-A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior who will lead a resistance to save humankind from extinction.  
+*The Terminator* (1984) — культовий науково-фантастичний фільм режисера Джеймса Кемерона. Події розгортаються у двох часових просторах: в майбутньому, де машини захопили світ, та в сучасності 1980-х. З майбутнього надсилають кіборга-термінатора (Арнольд Шварценеґґер), щоб знищити Сару Коннор (Лінда Гамільтон) — жінку, чий майбутній син стане лідером опору людства проти машин. Для її захисту до нашого часу прибуває Кайл Різ (Майкл Бієн), солдат і член опору. Фільм поєднує динамічний сюжет, гострі сцени та тему протистояння людей і машин, досліджуючи можливі наслідки розвитку штучного інтелекту.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nGrW-OR2uDk?si=7MDqHlj6v_HZO01_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

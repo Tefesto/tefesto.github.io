@@ -1,5 +1,5 @@
 ---
-aliases: ['Лицар кубків (2015)', 'Knight of Cups (2015)']
+aliases: ['Лицар кубків (2015)']
 poster: https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_SX300.jpg
 imdbId: tt2101383
 scoreImdb: 5.6
@@ -10,29 +10,27 @@ cast: Christian Bale, Cate Blanchett, Natalie Portman
 director: Terrence Malick
 country: United States
 type: movie
-date: 2024-10-30
-rating: 2
-status: Переглянуто
-viewed: 1
-tags: movie
+date: 2024-11-02
+rating: 💩
+status: 
 ---
 
-# Лицар кубків (2015)
-**Knight of Cups**
+# Лицар кубків
 
 ![](https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_SX300.jpg)
 
-**Genre**: Drama, Fantasy, Romance  
-**Cast**: Christian Bale, Cate Blanchett, Natalie Portman  
-**Director**: Terrence Malick  
-**Country**: United States  
-**Type**: movie (118 min)  
-**Rating**: 2  
-[IMDB](https://www.imdb.com/title/tt2101383/): 5.6 (29,864)  
+## Knight of Cups (2015)
 
-##### Короткий опис:
+**Жанр**: Drama, Fantasy, Romance  
+**Директор**: Terrence Malick  
+**Акторський склад**: Christian Bale, Cate Blanchett, Natalie Portman  
+**Країна**: United States  
+**Контент**: movie (118 min)  
+**Рейтинг**: 💩  
+**[IMDB](https://www.imdb.com/title/tt2101383/)**: 5.6 (29,984)  
 
-A writer indulging in all that Los Angeles and Las Vegas have to offer, undertakes a search for love and self via a series of adventures with six different women.
+## Анотація
 
----
+*Knight of Cups* (2015) — філософська драма режисера Терренса Маліка, що досліджує пошуки сенсу життя і внутрішню порожнечу сучасної людини. Головний герой, Рік (Крістіан Бейл), успішний, але дезорієнтований сценарист у Голлівуді, переживає кризу сенсу. Він відчуває, що його життя — це низка поверхневих насолод і випадкових зустрічей. Відвідуючи вечірки, стосунки та подорожуючи від Лос-Анджелеса до Лас-Вегаса, Рік намагається знайти внутрішній мир і зрозуміти, що для нього означає справжнє щастя та любов. Фільм сповнений символізму та метафор, а також натхненний мотивами карти Таро "Лицар Кубків", яка символізує пошук себе та прагнення глибшого життя.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SI2j1FHCjtM?si=7tgKLN0Xvz9j7ah5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

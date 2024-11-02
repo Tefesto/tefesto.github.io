@@ -31,5 +31,6 @@ status:
 
 ## Анотація
 
-Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.  
+*Dune: Part Two* (2024) — продовження науково-фантастичного епосу режисера Дені Вільнева, який завершує адаптацію культового роману Френка Герберта *«Дюна»*. Фільм продовжує історію Пола Атріда (Тімоті Шаламе), який тепер знаходиться серед фріменів, жителів пустельної планети Арракіс. Пол готується очолити повстання проти династії Гарконненів, щоб помститися за свою родину й звільнити Арракіс від гнобителів. Разом із фріменами, зокрема з воїтелькою Чані (Зендея), Пол стикається з моральними дилемами, пророцтвами та власними видіннями майбутнього, що передбачають його трансформацію в месію. *Dune: Part Two* обіцяє показати кульмінаційні битви та остаточну долю героїв у боротьбі за владу над Арракісом, досліджуючи теми долі, віри та відповідальності перед людством.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_YUzQa_1RCE?si=Inc0jty3zdG94wL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
