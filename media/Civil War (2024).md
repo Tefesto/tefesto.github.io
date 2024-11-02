@@ -168,6 +168,7 @@ A journey across a dystopian future America, following a team of military-embedd
 ---
 
 # Повстання Штатів
+
 ![](https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_SX300.jpg)
 
 ## Civil War (2024)
