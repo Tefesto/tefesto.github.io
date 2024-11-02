@@ -1,5 +1,5 @@
 ---
-aliases: ['Повстання Штатів (2024)', 'Civil War (2024)']
+aliases: ['Повстання Штатів (2024)']
 poster: https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_SX300.jpg
 imdbId: tt17279496
 scoreImdb: 7.0
@@ -10,10 +10,9 @@ cast: Kirsten Dunst, Wagner Moura, Cailee Spaeny
 director: Alex Garland
 country: United States, United Kingdom
 type: movie
-date: 2024-10-21
-rating: 3
-status: Переглянуто
-viewed: 1
+date: 2024-11-02
+rating: ⭐
+status: 
 ---
 
 # Повстання Штатів
@@ -23,8 +22,8 @@ viewed: 1
 ## Civil War (2024)
 
 **Жанр**: Action, Adventure, Thriller  
-**Акторський склад**: Kirsten Dunst, Wagner Moura, Cailee Spaeny  
 **Директор**: Alex Garland  
+**Акторський склад**: Kirsten Dunst, Wagner Moura, Cailee Spaeny  
 **Країна**: United States, United Kingdom  
 **Контент**: movie (109 min)  
 **Рейтинг**: ⭐  
@@ -39,4 +38,3 @@ viewed: 1
 Фільм розкриває теми політичного розколу та моральних дилем, створюючи похмурий образ майбутнього, де жорстокість та конфлікти стають повсякденною реальністю.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDyQxtg0V2w?si=9dEkE_yYeL3_pe1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-

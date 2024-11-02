@@ -14,7 +14,7 @@ date: 2024-10-30
 rating: 2
 status: Переглянуто
 viewed: 1
-tegs: movie
+tags: movie
 ---
 
 # Лицар кубків (2015)
