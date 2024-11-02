@@ -133,10 +133,9 @@ A journey across a dystopian future America, following a team of military-embedd
 ---
 
 # Повстання Штатів
-
 ![](https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_SX300.jpg)
 
-**Civil War (2024)**  
+### Civil War (2024)
 **Genre**: Action, Adventure, Thriller  
 **Cast**: Kirsten Dunst, Wagner Moura, Cailee Spaeny  
 **Director**: Alex Garland  
@@ -145,7 +144,7 @@ A journey across a dystopian future America, following a team of military-embedd
 **Rating**: 3  
 [IMDB](https://www.imdb.com/title/tt17279496/): 7.0 (173,965)
 
-### Анотація  
+### Анотація:  
 A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.
 
 ---
@@ -163,7 +162,7 @@ A journey across a dystopian future America, following a team of military-embedd
 **Rating**: 3  
 [IMDB](https://www.imdb.com/title/tt17279496/): 7.0 (173,965)
 
-**Анотація**  
+**Анотація**:  
 A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.
 
 ---
