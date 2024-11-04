@@ -1,5 +1,5 @@
 ---
-aliases: ['Ремонт двох кам'яних хатин в Італійських Альпах (2021–)']
+aliases: ['Ремонт двох кам''яних хатин в Італійських Альпах (2021–)']
 poster: https://m.media-amazon.com/images/M/MV5BZDJkOTcxYjYtYmMyYS00MzU5LWE2ZDUtNjNkNzRhNDRkYjBlXkEyXkFqcGdeQXVyODczOTc2MjY@._V1_SX300.jpg
 imdbId: tt32251411
 scoreImdb: N/A
