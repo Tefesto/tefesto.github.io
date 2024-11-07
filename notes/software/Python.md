@@ -8,4 +8,5 @@
 
 ## Посилання
 
-[python.org](https://www.python.org/)
+[python.org](https://www.python.org/)  
+#програмне_забезпечення   
