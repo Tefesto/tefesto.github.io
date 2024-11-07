@@ -8,4 +8,4 @@
 
 ## Посилання
 
-https://www.python.org/
+[python.org](https://www.python.org/)

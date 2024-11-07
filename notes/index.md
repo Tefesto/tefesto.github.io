@@ -1,3 +1,3 @@
 # Замітки
 
-[python](python.md#Встановлення)
+[python](python#Встановлення)
