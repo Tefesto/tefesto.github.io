@@ -11,7 +11,7 @@ director: Sofia Alvarez
 country: United States
 type: movie
 date: 2024-11-03
-rating: 💩
+rating: 💩💩💩
 status: 
 ---
 
@@ -26,7 +26,7 @@ status:
 **Акторський склад**: Emma Pasarow, Belmont Cameli, Laura Kariuki  
 **Країна**: United States  
 **Контент**: movie (106 min)  
-**Рейтинг**: 💩  
+**Рейтинг**: 💩💩💩
 **[IMDB](https://www.imdb.com/title/tt14506528/)**: 6.1 (9,599)  
 
 ## Анотація
