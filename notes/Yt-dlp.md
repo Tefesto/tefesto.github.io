@@ -14,6 +14,6 @@
 
 ## Посилання
 
-[GitHub](https://github.com/yt-dlp/yt-dlp)  
-Веб сервер для yt-dlp [GitHub - nbr23/youtube-dl-server: Web / REST interface for downloading youtube videos onto a server.](https://github.com/nbr23/youtube-dl-server)  
-#програмне_забезпечення   
+- [GitHub](https://github.com/yt-dlp/yt-dlp)  
+- Веб сервер для yt-dlp [GitHub - nbr23/youtube-dl-server: Web / REST interface for downloading youtube videos onto a server.](https://github.com/nbr23/youtube-dl-server)  
+- #програмне_забезпечення   

@@ -2,19 +2,13 @@
 
 ## Програмне забезпечення
 
-[Python](software/Python)  
-[SumatraPDF](software/SumatraPDF)  
-[Yt-dlp](software/Yt-dlp)
+[Python](Python.md)  
+[SumatraPDF](SumatraPDF.md)  
+[Yt-dlp](Yt-dlp.md)
 
-## Без повного шляху
+## Нумерація
 
 1. [Python](Python)
 2. [SumatraPDF](SumatraPDF)
 3. [Yt-dlp](Yt-dlp)
-
-## Повний шлях в посиланні
-
-1. [Python](notes/software/Python.md)
-2. [SumatraPDF](notes/software/SumatraPDF.md)
-3. [Yt-dlp](notes/software/Yt-dlp.md)
 

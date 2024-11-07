@@ -8,5 +8,5 @@
 
 ## Посилання
 
-[sumatrapdfreader.org](https://www.sumatrapdfreader.org/free-pdf-reader)  
-#програмне_забезпечення  
+- [sumatrapdfreader.org](https://www.sumatrapdfreader.org/free-pdf-reader)  
+- #програмне_забезпечення  
