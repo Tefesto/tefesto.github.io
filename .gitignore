@@ -7,6 +7,7 @@
 /.obsidian/
 /templates/
 /scripts/
+/workspace/
 
 # Ігнорування всіх файлів з певним розширенням
 # *.log

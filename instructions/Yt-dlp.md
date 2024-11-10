@@ -1,3 +1,8 @@
+---
+tags:
+  - програмне_забезпечення
+---
+
 # Yt-dlp
 
 > Програма для скачування відео або аудіо з Ютубу.
@@ -16,4 +21,3 @@
 
 - [GitHub](https://github.com/yt-dlp/yt-dlp)  
 - Веб сервер для yt-dlp [GitHub - nbr23/youtube-dl-server: Web / REST interface for downloading youtube videos onto a server.](https://github.com/nbr23/youtube-dl-server)  
-- #програмне_забезпечення   
