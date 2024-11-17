@@ -1,6 +1,15 @@
 # Усі серіали
 
 1. [Banana Fish (2018)](Banana Fish (2018))
-2. [Renovating Two Stone Cabins in the Italian Alps (2021–)](Renovating Two Stone Cabins in the Italian Alps (2021–))
-3. [The Penguin (2024)](The Penguin (2024))
-4. [Two Years on a Bike (2022)](Two Years on a Bike (2022))
+2. [Dandadan (2024–)](Dandadan (2024–))
+3. [Demon Lord 2099 (2024–)](Demon Lord 2099 (2024–))
+4. [Let This Grieving Soul Retire! (2024–)](Let This Grieving Soul Retire! (2024–))
+5. [My Name Is Earl (2005–2009)](My Name Is Earl (2005–2009))
+6. [Renovating Two Stone Cabins in the Italian Alps (2021–)](Renovating Two Stone Cabins in the Italian Alps (2021–))
+7. [Shogun (2024–2026)](Shogun (2024–2026))
+8. [Sword Art Online Alternative Gun Gale Online (2018–2024)](Sword Art Online Alternative Gun Gale Online (2018–2024))
+9. [The Do-Over Damsel Conquers the Dragon Emperor (2024–)](The Do-Over Damsel Conquers the Dragon Emperor (2024–))
+10. [The Ossan Newbie Adventurer Trained to Death by the Most Powerful Party Became Invincible (2024)](The Ossan Newbie Adventurer Trained to Death by the Most Powerful Party Became Invincible (2024))
+11. [The Penguin (2024)](The Penguin (2024))
+12. [The Strongest Magician in the Demon Lords Army was a Human (2024)](The Strongest Magician in the Demon Lords Army was a Human (2024))
+13. [Two Years on a Bike (2022)](Two Years on a Bike (2022))

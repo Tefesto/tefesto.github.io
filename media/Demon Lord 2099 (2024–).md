@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2024-11-10
 rating: 💩
-status: 5(12)
+status: 5/12
 ---
 
 # Володар демонів 2099
@@ -37,4 +37,4 @@ status: 5(12)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f-2DqgqOoDQ?si=bUqUYjQR37SprI7l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[AC](https://animeua.club/7934-maou-2099.html)  
+https://animeua.club/7934-maou-2099.html
