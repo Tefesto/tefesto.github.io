@@ -11,7 +11,7 @@ director: Kyle Balda, Pierre Coffin, Eric Guillon
 country: United States, France, Japan
 type: movie
 date: 2024-11-16
-rating: 💩
+rating: 💩💩
 status: 
 ---
 
@@ -26,7 +26,7 @@ status:
 **Акторський склад**: Steve Carell, Kristen Wiig, Trey Parker  
 **Країна**: United States, France, Japan  
 **Контент**: movie (89 min)  
-**Рейтинг**: 💩  
+**Рейтинг**: 💩💩  
 **[IMDB](https://www.imdb.com/title/tt3469046/)**: 6.2 (162,041)  
 
 ## Анотація
