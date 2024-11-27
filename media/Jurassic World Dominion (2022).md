@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-06
 rating: 💩💩
 status: 
+tags: 
 ---
 
 # Світ Юрського періоду 3: Домініон

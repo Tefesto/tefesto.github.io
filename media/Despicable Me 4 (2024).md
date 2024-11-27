@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-16
 rating: 💩
 status: 
+tags: серія_нікчемний_я
 ---
 
 # Нікчемний я 4

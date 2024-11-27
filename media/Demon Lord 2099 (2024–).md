@@ -13,6 +13,7 @@ type: series
 date: 2024-11-10
 rating: 💩
 status: 5/12
+tags: 
 ---
 
 # Володар демонів 2099

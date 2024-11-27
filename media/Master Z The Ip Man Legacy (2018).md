@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-06
 rating: 💩
 status: 
+tags: серія_іп_ман
 ---
 
 # Майстер Z: Спадок Іп Мана

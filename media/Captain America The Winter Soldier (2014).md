@@ -10,10 +10,10 @@ cast: Chris Evans, Samuel L. Jackson, Scarlett Johansson
 director: Anthony Russo, Joe Russo
 country: United States
 type: movie
-date: 2024-11-22
+date: 2024-11-23
 rating: ⭐
 status: 
-tags: серія_капітан_америка
+tags: серія_капітан_америка, серія_месники
 ---
 
 # Перший месник: Друга війна

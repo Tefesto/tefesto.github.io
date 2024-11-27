@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-03
 rating: 💩💩
 status: 
+tags: 
 ---
 
 # Армія мерців

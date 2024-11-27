@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-04
 rating: 💩💩💩
 status: 
+tags: 
 ---
 
 # Чорна Пантера: Ваканда назавжди

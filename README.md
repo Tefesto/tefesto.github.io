@@ -1,4 +1,4 @@
-**[Про сайт](notes/about)**
+**[Про сайт](notes/about.md)**
 
 - [Замітки](notes)
 - [Інструкції](instructions)

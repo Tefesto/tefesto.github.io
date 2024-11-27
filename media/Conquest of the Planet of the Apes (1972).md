@@ -1,5 +1,5 @@
 ---
-aliases: ['Завоювання планети мавп (1972) (1972)']
+aliases: ['Завоювання планети мавп (1972)']
 poster: https://m.media-amazon.com/images/M/MV5BZjQ5Y2EwMDEtMjAzMS00YWY3LThkOTEtNzFjNDQ4NGRiNDIzXkEyXkFqcGc@._V1_SX300.jpg
 imdbId: tt0068408
 scoreImdb: 6.1
@@ -13,9 +13,10 @@ type: movie
 date: 2024-11-04
 rating: 💩💩
 status: 
+tags: серія_планета_мавп
 ---
 
-# Завоювання планети мавп (1972)
+# Завоювання планети мавп
 
 ![](https://m.media-amazon.com/images/M/MV5BZjQ5Y2EwMDEtMjAzMS00YWY3LThkOTEtNzFjNDQ4NGRiNDIzXkEyXkFqcGc@._V1_SX300.jpg)
 

@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-07
 rating: 💩💩
 status: 
+tags: 
 ---
 
 # Шлях до слави: Лянча проти Ауді

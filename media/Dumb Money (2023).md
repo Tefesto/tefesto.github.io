@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-05
 rating: 💩
 status: 
+tags: 
 ---
 
 # Шалені гроші

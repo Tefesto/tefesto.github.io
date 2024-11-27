@@ -10,10 +10,10 @@ cast: Chris Evans, Robert Downey Jr., Scarlett Johansson
 director: Anthony Russo, Joe Russo
 country: United States, Germany
 type: movie
-date: 2024-11-26
+date: 2024-11-25
 rating: 💩
 status: 
-tags: серія_капітан_америка
+tags: серія_капітан_америка, серія_месники
 ---
 
 # Перший месник: Протистояння

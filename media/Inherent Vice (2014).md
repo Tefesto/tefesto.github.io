@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-17
 rating: 💩
 status: 
+tags: 
 ---
 
 # Вроджена вада

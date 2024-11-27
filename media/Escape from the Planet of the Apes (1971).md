@@ -1,5 +1,5 @@
 ---
-aliases: ['Утеча з планети мавп (1971) (1971)']
+aliases: ['Утеча з планети мавп (1971)']
 poster: https://m.media-amazon.com/images/M/MV5BY2NjNzVlMDgtMzEyYS00N2M4LWI2YjMtNGQ1NGRlZDk5MDU5XkEyXkFqcGc@._V1_SX300.jpg
 imdbId: tt0067065
 scoreImdb: 6.3
@@ -13,9 +13,10 @@ type: movie
 date: 2024-11-04
 rating: 💩💩
 status: 
+tags: серія_планета_мавп
 ---
 
-# Утеча з планети мавп (1971)
+# Утеча з планети мавп
 
 ![](https://m.media-amazon.com/images/M/MV5BY2NjNzVlMDgtMzEyYS00N2M4LWI2YjMtNGQ1NGRlZDk5MDU5XkEyXkFqcGc@._V1_SX300.jpg)
 

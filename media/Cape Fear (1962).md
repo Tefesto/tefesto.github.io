@@ -13,9 +13,10 @@ type: movie
 date: 2024-11-04
 rating: 💩
 status: 
+tags: 
 ---
 
-# Мис страху
+# Мис страху 
 
 ![](https://m.media-amazon.com/images/M/MV5BZTI0ZDQyMjUtMGY1OC00NTFiLThhYjQtOTg0YTM4NTA2NjUzXkEyXkFqcGc@._V1_SX300.jpg)
 

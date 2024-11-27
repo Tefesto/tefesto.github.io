@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-11
 rating: 💩
 status: 
+tags: 
 ---
 
 # Мій рік у Нью-Йорку

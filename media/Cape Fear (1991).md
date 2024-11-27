@@ -1,5 +1,5 @@
 ---
-aliases: ['Мис Страху (1991)']
+aliases: ['Мис страху (1991)']
 poster: https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg
 imdbId: tt0101540
 scoreImdb: 7.3
@@ -13,9 +13,10 @@ type: movie
 date: 2024-11-04
 rating: 💩
 status: 
+tags: 
 ---
 
-# Мис Страху
+# Мис страху
 
 ![](https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg)
 

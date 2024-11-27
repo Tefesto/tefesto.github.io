@@ -13,6 +13,7 @@ type: movie
 date: 2024-11-02
 rating: ⭐
 status: 
+tags: 
 ---
 
 # 20 днів у Маріуполі
