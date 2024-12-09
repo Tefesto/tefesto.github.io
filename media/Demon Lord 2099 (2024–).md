@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2024-11-10
 rating: 💩
-status: 5/12
+status: 8/12
 tags: 
 ---
 

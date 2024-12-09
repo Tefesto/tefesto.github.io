@@ -11,8 +11,8 @@ director: N/A
 country: Japan
 type: series
 date: 2024-11-14
-rating: ⭐
-status: 9/13
+rating: 💩
+status: 10/13
 ---
 
 # Дайте цій скорботній душі спокій
@@ -26,7 +26,7 @@ status: 9/13
 **Акторський склад**: Kenshô Ono, Masayuki Fujibuchi, Tomokazu Sugita  
 **Країна**: Japan  
 **Контент**: series (N/A)  
-**Рейтинг**: ⭐  
+**Рейтинг**: 💩  
 **[IMDB](https://www.imdb.com/title/tt32508529/)**: N/A (86)  
 **[MAL](https://myanimelist.net/anime/58172/Nageki_no_Bourei_wa_Intai_shitai)**: 6.95 (9,478)
 

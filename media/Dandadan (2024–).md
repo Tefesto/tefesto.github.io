@@ -11,8 +11,8 @@ director: N/A
 country: Japan
 type: series
 date: 2024-11-15
-rating: ⭐
-status: 6/12
+rating: ⭐⭐
+status: 10/12
 tags: 
 ---
 
@@ -27,7 +27,7 @@ tags:
 **Акторський склад**: Shion Wakayama, Natsuki Hanae, Abby Trott  
 **Країна**: Japan  
 **Контент**: series (N/A)  
-**Рейтинг**: ⭐  
+**Рейтинг**: ⭐⭐  
 **[IMDB](https://www.imdb.com/title/tt30217403/)**: 8.6 (4,279)  
 **[MAL](https://myanimelist.net/anime/57334/Dandadan)**: 8.66 (92,974)
 
@@ -38,3 +38,5 @@ tags:
 Серіал створено студією Science Saru, а над сценарієм працює Хіросі Секо, відомий за роботою над *"Jujutsu Kaisen"* та *"Attack on Titan"*. Головних героїв озвучують Шіон Вакаяма (Момо) та Нацукі Ханае (Окарун). Анімація обіцяє бути динамічною, з акцентом на комедію та паранормальні події.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q8kdev62-L4?si=g3OE8tLRTQvTUmNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://animeua.club/7952-dandadan.html
