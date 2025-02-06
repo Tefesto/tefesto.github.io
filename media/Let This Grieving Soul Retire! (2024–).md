@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2024-11-14
 rating: 💩
-status: 10/13
+status: 
 ---
 
 # Дайте цій скорботній душі спокій

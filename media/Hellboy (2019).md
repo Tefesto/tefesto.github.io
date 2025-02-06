@@ -11,7 +11,7 @@ director: Neil Marshall
 country: United States, United Kingdom, Bulgaria, Canada, Portugal, France
 type: movie
 date: 2024-12-05
-rating: 💩💩
+rating: 💩
 status: 
 tags: серія_хеллбой
 ---
@@ -27,7 +27,7 @@ tags: серія_хеллбой
 **Акторський склад**: David Harbour, Milla Jovovich, Ian McShane  
 **Країна**: United States, United Kingdom, Bulgaria, Canada, Portugal, France  
 **Контент**: movie (120 min)  
-**Рейтинг**: 💩💩  
+**Рейтинг**: 💩  
 **[IMDB](https://www.imdb.com/title/tt2274648/)**: 5.3 (102,745)  
 
 ## Анотація
