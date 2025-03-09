@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2025-01-14
 rating: 💩
-status: s02e16
+status: s02e21
 tags: 
 ---
 
@@ -42,4 +42,5 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2pKzsk2k9d4?si=qasr4aLVUGtfmdNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://uakino.me/animeukr/anime-series/24335-kordon-shangri-la-2-sezon.html
+https://uakino.me/animeukr/anime-series/24335-kordon-shangri-la-2-sezon.html  
+https://uaserial.com/shangri-la-frontier/season-2#watch

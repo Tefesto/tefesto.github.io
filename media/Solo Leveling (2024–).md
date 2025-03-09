@@ -12,7 +12,7 @@ country: Japan, South Korea
 type: series
 date: 2025-01-13
 rating: 💩
-status: s02e05/12
+status: s02e09/12
 tags: 
 ---
 
@@ -43,4 +43,5 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YvGSK8mIlt8?si=3Tzjtyc_K1nW41RR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://uakino.me/animeukr/anime-series/25998-tilky-ia-vizmu-novyi-riven-2-sezon.html
+https://uakino.me/animeukr/anime-series/25998-tilky-ia-vizmu-novyi-riven-2-sezon.html  
+https://uaserial.com/solo-leveling/season-2#watch

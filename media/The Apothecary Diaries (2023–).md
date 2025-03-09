@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2025-01-11
 rating: ⭐
-status: s02e04/24
+status: s02e08/24
 tags: 
 ---
 
@@ -38,4 +38,5 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlal8umyDGk?si=VBcCCxmk7TiaqJTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://uakino.me/animeukr/anime-series/26149-monolog-travnyci-2-sezon.html
+https://uakino.me/animeukr/anime-series/26149-monolog-travnyci-2-sezon.html  
+https://uaserial.com/kusuriya-no-hitorigoto/season-2#watch
