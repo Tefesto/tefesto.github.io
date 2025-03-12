@@ -12,7 +12,7 @@ country: South Korea
 type: series
 date: 2025-01-12
 rating: ⭐
-status: s02e07
+status: 
 tags: 
 ---
 
@@ -38,4 +38,4 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqxAJKy0ii4?si=pMdoQoZVj9gTdZ5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://uakino.me/seriesss/detective_series/25743-gra-u-kalmara-2-sezon.html
+[UAKino](https://uakino.me/seriesss/detective_series/25743-gra-u-kalmara-2-sezon.html)

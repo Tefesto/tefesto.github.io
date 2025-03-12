@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2025-03-01
 rating: 💩
-status: s01e08
+status: s01e09
 tags: 
 ---
 

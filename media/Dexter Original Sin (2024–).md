@@ -12,7 +12,7 @@ country: United States
 type: series
 date: 2025-01-15
 rating: ⭐
-status: s01e10
+status: 
 tags: 
 ---
 

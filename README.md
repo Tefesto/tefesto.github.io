@@ -1,7 +1,7 @@
-**[Про сайт](notes/about.md)**
+**[Про сайт](notes/about)**
 
-- [Замітки](notes)
-- [Інструкції](instructions)
-- [Рецепти](recipes)
-- [Медіаконтент](media)
+- [Замітки](notes/index)
+- [Інструкції](instructions/index)
+- [Рецепти](recipes/index)
+- [Медіаконтент](media/index)
 

@@ -12,7 +12,7 @@ country: Japan
 type: series
 date: 2025-01-11
 rating: ⭐
-status: s02e08/24
+status: s02e09/24
 tags: 
 ---
 
