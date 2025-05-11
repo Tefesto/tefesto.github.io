@@ -8,7 +8,7 @@
         <a href="https://keep.google.com/">google keep</a>
       </li>
       <li>
-        <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tasks.google.com/tasks/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <img src="/assets/icons/icons8-microsoft-todo-2019-16.png" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://tasks.google.com/tasks/">google tasks</a>
       </li>
       <li>
@@ -67,9 +67,16 @@
     </ul>
   </div>
 
+  <div>
+    <h2>media</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>
+        <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://www.youtube.com/">youtube</a>
+      </li>
+  </div>
+
 </div>
-
-
 
 ## contact
 
