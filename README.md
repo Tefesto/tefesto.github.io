@@ -90,6 +90,14 @@
         <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://www.youtube.com/">youtube</a>
       </li>
+      <li>
+        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.imdb.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://www.imdb.com/">imdb</a>
+      </li>
+      <li>
+        <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://myanimelist.net/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://myanimelist.net/">my anime list</a>
+      </li>
     </ul>
   </div>
 
