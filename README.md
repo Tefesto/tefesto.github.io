@@ -44,6 +44,10 @@
         <a href="https://docs.google.com/spreadsheets/u/0/?pli=1">google spreadsheets</a>
       </li>
       <li>
+        <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://translate.google.com/?&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://translate.google.com/">google translate</a>
+      </li>
+      <li>
         <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://github.com/">github</a>
       </li>
@@ -101,6 +105,10 @@
       <li>
         <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://myanimelist.net/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://myanimelist.net/">my anime list</a>
+      </li>
+      <li>
+        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://spotify.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://open.spotify.com/">spotify</a>
       </li>
     </ul>
   </div>
