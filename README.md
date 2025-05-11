@@ -61,8 +61,16 @@
         <a href="https://www.gog.com/en/">gog</a>
       </li>
       <li>
+        <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gamejolt.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://gamejolt.com/">game jolt</a>
+      </li>
+      <li>
         <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.chess.com&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://www.chess.com/play/computer">chess</a>
+      </li>
+      <li>
+        <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.nexusmods.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://www.nexusmods.com/">nexus mod</a>
       </li>
     </ul>
   </div>
