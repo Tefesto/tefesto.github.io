@@ -43,6 +43,10 @@
         <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://docs.google.com/spreadsheets/u/0/?pli=1&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://docs.google.com/spreadsheets/u/0/?pli=1">google spreadsheets</a>
       </li>
+      <li>
+        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://github.com/">github</a>
+      </li>
     </ul>
   </div>
 
@@ -211,16 +215,20 @@
         <a href="https://uabooks.net/">uabooks</a>
       </li>
       <li>
+        <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.ukrlib.com.ua/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://www.ukrlib.com.ua/">ukrlib</a>
+      </li>
+      <li>
+        <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://chtyvo.org.ua/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://chtyvo.org.ua/">chtyvo</a>
+      </li>
+      <li>
         <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://archiveofourown.org/&size=16  " style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://archiveofourown.org/">archive of our own</a>
       </li>
       <li>
         <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://freeread.de/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://freeread.de/">roy glashan's library</a>
-      </li>
-      <li>
-        <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://notebooklm.google.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
-        <a href="https://notebooklm.google.com/">3</a>
       </li>
       </ul>
   </div>
