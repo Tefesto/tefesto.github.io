@@ -74,9 +74,12 @@
         <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://www.youtube.com/">youtube</a>
       </li>
+    </ul>
   </div>
 
 </div>
+
+
 
 ## contact
 
