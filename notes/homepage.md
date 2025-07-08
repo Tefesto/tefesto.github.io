@@ -132,6 +132,10 @@
         <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://notebooklm.google.com/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://notebooklm.google.com/">notebooklm</a>
       </li>
+      <li>
+        <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://claude.ai/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://claude.ai/">claude</a>
+      </li>
       </ul>
   </div>
 
