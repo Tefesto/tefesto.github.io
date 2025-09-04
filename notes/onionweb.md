@@ -1,5 +1,8 @@
-# onion web
+<body>
+  {% include nav.html %}
+</body>
 
+# onion web
 
 ## search
 
@@ -9,7 +12,6 @@
 [amnesia](http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/)  
 [onionland search](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/) ⭐  
 
-
 ## library
 
 [comic book library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) ⭐  
@@ -17,11 +19,9 @@
 [tortuga library](http://trtgarpwmcv6lbtzfdtdoqb5lpxni3pkekb4vecmdwf4kjjoplbvdkyd.onion/) 💩  
 [flibusta](http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/) ⭐  
 
-
 ## other
 
 [dev'9ch](http://ninechtv5neapzmvmivoqel6kstawcfwo4kavwweahu2wi6jxpde74ad.onion/)  
-
 
 ## links
 
