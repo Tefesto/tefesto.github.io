@@ -1,10 +1,8 @@
 title: tefesto
 nav:
-  - name: "Головна"
+  - name: "main"
     link: /
-  - name: "Про мене"
-    link: /about.html
-  - name: "Проєкти"
-    link: /projects.html
-  - name: "Контакти"
-    link: /contacts.html
+  - name: "links"
+    link: /notes/index.html
+  - name: "projects"
+    link: /projects/insdex.html
