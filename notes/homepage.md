@@ -140,6 +140,10 @@
         <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://claude.ai/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
         <a href="https://claude.ai/">claude</a>
       </li>
+      <li>
+        <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://copilot.microsoft.com/chats/&size=16" style="width:16px; height:16px; vertical-align:middle; margin-right:8px;">
+        <a href="https://copilot.microsoft.com/chats/">copilot</a>
+      </li>
       </ul>
   </div>
 
