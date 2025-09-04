@@ -4,5 +4,5 @@
 
 ## links
 
-[homepage](honepsge.html)  
-[onionweb](onionweeb.html)  
+[homepage](homepage.html)  
+[onionweb](onionweb.html)  
