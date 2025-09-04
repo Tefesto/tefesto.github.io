@@ -1,8 +1,5 @@
 <body>
   {% include nav.html %}
-  ## Hi
-  link: /homepage.md
-  link: /onionweb.md
 </body>
-
-
+[homepage](honepsge.md)  
+[onionweb](onionweeb.md)  
