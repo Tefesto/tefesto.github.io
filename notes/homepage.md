@@ -1,3 +1,9 @@
+<body>
+  {% include nav.html %}
+</body>
+
+## homepage
+
 <div style="display: flex; gap: 50px; align-items: flex-start;">
 
   <div>
