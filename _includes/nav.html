@@ -1,5 +1,8 @@
 <nav>
   {% for item in site.nav %}
     <a href="{{ item.link }}">{{ item.name }}</a>
+    {% unless forloop.last %}
+      <span class="separator"> ● </span>
+    {% endunless %}
   {% endfor %}
 </nav>
