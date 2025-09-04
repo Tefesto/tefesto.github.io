@@ -1,6 +1,8 @@
 <body>
   {% include nav.html %}
-  {{ content }}
+  ## Hi
+  link: /homepage.md
+  link: /onionweb.md
 </body>
 
-## Hi
+
