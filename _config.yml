@@ -1,0 +1,10 @@
+title: Мій сайт
+nav:
+  - name: "Головна"
+    link: /
+  - name: "Про мене"
+    link: /about.html
+  - name: "Проєкти"
+    link: /projects.html
+  - name: "Контакти"
+    link: /contacts.html
