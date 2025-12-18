@@ -5,6 +5,6 @@ nav:
   - name: "notes"
     link: /notes/notes.html
   - name: "links"
-    link: /notes/index.html
+    link: /notes/links.html
   - name: "projects"
     link: /projects/insdex.html
