@@ -2,6 +2,8 @@ title: tefesto
 nav:
   - name: "main"
     link: /
+  - name: "notes"
+    link: /notes/notes.html
   - name: "links"
     link: /notes/index.html
   - name: "projects"
