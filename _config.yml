@@ -3,8 +3,8 @@ nav:
   - name: "main"
     link: /
   - name: "notes"
-    link: /notes/notes.html
+    link: /notes/index.html
   - name: "links"
     link: /notes/links.html
   - name: "projects"
-    link: /projects/insdex.html
+    link: /projects/index.html
