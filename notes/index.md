@@ -2,7 +2,11 @@
   {% include nav.html %}
 </body>
 
-## links
+# Публічні випадкові замітки
 
-[homepage](homepage.html)  
-[onionweb](onionweb.html)  
+
+#### 2025
+[2025-12-18](2025-12-18) Про вигорання  
+
+
+
