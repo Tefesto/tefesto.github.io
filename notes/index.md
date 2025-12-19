@@ -2,6 +2,6 @@
   {% include nav.html %}
 </body>
  
-## notes
+# notes
 
 [2025](2025)
