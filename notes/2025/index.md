@@ -1,4 +1,6 @@
-[notes](../)
+<body>
+  {% include nav.html %}
+</body>
 
 # 2025
 
