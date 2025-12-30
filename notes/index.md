@@ -2,8 +2,8 @@
   {% include nav.html %}
 </body>
  
-# notes
+# notoj
 
-[movie recomendation for n](movie_recomendation_for_n)  
+[filmaj rekomendoj por n](filmaj_rekomendoj_por_n)  
 [2026](2026)  
 [2025](2025)  
