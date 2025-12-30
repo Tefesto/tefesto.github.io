@@ -3,6 +3,6 @@ nav:
   - name: "notes"
     link: /notes/index.html
   - name: "links"
-    link: /links/links.html
+    link: /notes/links.html
   - name: "projects"
     link: /projects/index.html
