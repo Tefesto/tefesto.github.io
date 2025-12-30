@@ -1,8 +1,8 @@
 title: tefesto
 nav:
-  - name: "notoj"
-    link: /notoj/index.html
-  - name: "ligiloj"
-    link: /ligiloj/links.html
-  - name: "projektoj"
-    link: /projektoj/index.html
+  - name: 'notes"
+    link: /notes/index.html
+  - name: "links"
+    link: /links/links.html
+  - name: "projects"
+    link: /projects/index.html

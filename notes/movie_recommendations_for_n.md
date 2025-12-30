@@ -1,4 +1,4 @@
-# filmaj rekomendoj por n
+# movie recommendations for n
 
 - [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 - [Tengoku Daimakyou](https://myanimelist.net/anime/53393/Tengoku_Daimakyou)
